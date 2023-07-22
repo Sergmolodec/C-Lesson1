@@ -1,0 +1,15 @@
+C:\Users\sergm\OneDrive\Desktop\C# 1 урок\Example001_HelloConsoleSerg\bin\Debug\net6.0\Example001_HelloConsoleSerg.exe
+C:\Users\sergm\OneDrive\Desktop\C# 1 урок\Example001_HelloConsoleSerg\bin\Debug\net6.0\Example001_HelloConsoleSerg.deps.json
+C:\Users\sergm\OneDrive\Desktop\C# 1 урок\Example001_HelloConsoleSerg\bin\Debug\net6.0\Example001_HelloConsoleSerg.runtimeconfig.json
+C:\Users\sergm\OneDrive\Desktop\C# 1 урок\Example001_HelloConsoleSerg\bin\Debug\net6.0\Example001_HelloConsoleSerg.dll
+C:\Users\sergm\OneDrive\Desktop\C# 1 урок\Example001_HelloConsoleSerg\bin\Debug\net6.0\Example001_HelloConsoleSerg.pdb
+C:\Users\sergm\OneDrive\Desktop\C# 1 урок\Example001_HelloConsoleSerg\obj\Debug\net6.0\Example001_HelloConsoleSerg.csproj.AssemblyReference.cache
+C:\Users\sergm\OneDrive\Desktop\C# 1 урок\Example001_HelloConsoleSerg\obj\Debug\net6.0\Example001_HelloConsoleSerg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergm\OneDrive\Desktop\C# 1 урок\Example001_HelloConsoleSerg\obj\Debug\net6.0\Example001_HelloConsoleSerg.AssemblyInfoInputs.cache
+C:\Users\sergm\OneDrive\Desktop\C# 1 урок\Example001_HelloConsoleSerg\obj\Debug\net6.0\Example001_HelloConsoleSerg.AssemblyInfo.cs
+C:\Users\sergm\OneDrive\Desktop\C# 1 урок\Example001_HelloConsoleSerg\obj\Debug\net6.0\Example001_HelloConsoleSerg.csproj.CoreCompileInputs.cache
+C:\Users\sergm\OneDrive\Desktop\C# 1 урок\Example001_HelloConsoleSerg\obj\Debug\net6.0\Example001_HelloConsoleSerg.dll
+C:\Users\sergm\OneDrive\Desktop\C# 1 урок\Example001_HelloConsoleSerg\obj\Debug\net6.0\refint\Example001_HelloConsoleSerg.dll
+C:\Users\sergm\OneDrive\Desktop\C# 1 урок\Example001_HelloConsoleSerg\obj\Debug\net6.0\Example001_HelloConsoleSerg.pdb
+C:\Users\sergm\OneDrive\Desktop\C# 1 урок\Example001_HelloConsoleSerg\obj\Debug\net6.0\Example001_HelloConsoleSerg.genruntimeconfig.cache
+C:\Users\sergm\OneDrive\Desktop\C# 1 урок\Example001_HelloConsoleSerg\obj\Debug\net6.0\ref\Example001_HelloConsoleSerg.dll
